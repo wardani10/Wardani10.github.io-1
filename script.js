@@ -46,7 +46,7 @@ jam.innerHTML = `${hour}:${minutes}`
 const pengirim = "Ilham - FEB";
 const nomorWa = "6283823885211" // awalan nomor 0 harus di awalin 62
 const textWa = "Ah bisa aja kamu"
-const pesan = `Dilahirkan di hari natal dan Lina yang artinya "lembut" menjadi seorang wanita yang aku kagumi. Terima kasih banyak karena udah mau jadi temen aku yang baik :)`;
+const pesan = `Namamu seperti sejuknya "Christmast" dan Lina yang artinya "lembut" menjadi seorang wanita yang aku kagumi. Terima kasih banyak karena udah mau jadi temen aku yang baik :)`;
 
 if (pengirim) {
   nama.innerHTML = pengirim;
